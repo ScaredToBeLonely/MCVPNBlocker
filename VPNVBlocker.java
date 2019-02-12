@@ -18,7 +18,7 @@ import org.bukkit.scheduler.BukkitScheduler;
 import tokyo.nikokingames.shotbow.vpnblocker.container.Cache;
 import tokyo.nikokingames.shotbow.vpnblocker.net.Manager;
 
-public class ShotbowVPNBlocker
+public class VPNBlocker
   extends JavaPlugin
   implements Listener
 {
